@@ -1,4 +1,4 @@
-# Face-Detection
+# Digit Recognition using Softmax Regression
 
 This code helps you classify different digits using softmax regression
 
